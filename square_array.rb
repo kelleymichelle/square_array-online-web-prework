@@ -1,6 +1,7 @@
+array = [1, 2, 3]
+
 def square_array(array)
-  numbers = [1, 2, 3]
-    numbers.each do |n|
-      
+  array.each do |n|
+    new_array = (n*n)
   end    
 end
